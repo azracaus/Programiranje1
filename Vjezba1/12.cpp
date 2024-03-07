@@ -2,10 +2,6 @@
 #include <cmath>
 using namespace std;
 
-/*Napisite program u kojem cete omoguciti unos cetverocifrenog broja 
-i u svaku znamenku koja je djeljiva sa 2 zamijeniti sa znamenkom po izboru
-*/
-
 void unos(int &); 
 void sifra(int&);
 int zamjena(int, int);
