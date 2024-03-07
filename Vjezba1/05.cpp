@@ -3,12 +3,6 @@
 
 using namespace std;
 
-/*
-	Unesite broj n. Ispisati sve brojeve koji su djeljivi sa 4 od 1 do n koriste?i for petlju.
-	Input: n [int]
-	Output: 4 8 12 ... (sve brojevi djeljivi sa 4 do n)
-*/
-
 int main() {
 
 	int n;
