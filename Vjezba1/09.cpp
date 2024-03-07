@@ -3,12 +3,6 @@
 
 using namespace std;
 
-/*Napisi program koji upotrebom for petlji ispisuje 
-geometrijski lik kvadrat/pravougaonik uz pomo? nekog znaka. 
-Korisnik bira znak, sirinu i visinu, 
-ako se odluci za kvadrat sirina ce biti jednaka visini)*/
-
-
 int main() {
 
 	int s, v; 
