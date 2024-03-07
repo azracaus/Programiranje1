@@ -1,9 +1,8 @@
-Broj cifara
-/*
+## [01](https://github.com/azracaus/Programiranje1/blob/main/Vjezba1/01.cpp) Broj cifara
 	Napišite program koji za uneseni cijeli broj ispisuje njegov broj cifara.
 	Input: broj [int]
 	Output: Broj cifara u unesenom broju
-*/
+
 
 
 
