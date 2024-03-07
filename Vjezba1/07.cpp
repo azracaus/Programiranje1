@@ -2,12 +2,6 @@
 
 using namespace std;
 
-/*Napisite program u kojem cete omoguciti unos dva 
-prirodna broja te izra?unati i ispisati njihov najveci 
-zajednicki djeljitelj (npr. uneseni su 12 i 16 ispis 
-treba biti 4).*/
-
-
 int main() {
 
 	int n, m, djeljitelj; 
