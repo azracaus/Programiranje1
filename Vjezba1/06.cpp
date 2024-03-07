@@ -4,12 +4,6 @@
 
 using namespace std;
 
-/*
-	Ispisati brojeve od 1 do 100 koji su djeljivi sa 3 i sa 5 koriste?i for petlju.
-	Input: Nema
-	Output: 15 30 45 60 ...
-*/
-
 int main() {
 
 	int n;
