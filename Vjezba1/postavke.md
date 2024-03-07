@@ -1,13 +1,16 @@
 ## [01](https://github.com/azracaus/Programiranje1/blob/main/Vjezba1/01.cpp) Broj cifara
-	Napišite program koji za uneseni cijeli broj ispisuje njegov broj cifara.
-	Input: broj [int]
-	Output: Broj cifara u unesenom broju
+Napišite program koji za uneseni cijeli broj ispisuje njegov broj cifara. <br/>
+Input: broj [int] <br/>
+Output: Broj cifara u unesenom broju
 
+## [02](https://github.com/azracaus/Programiranje1/blob/main/Vjezba1/02.cpp) Fibonacci
+Ispisati prvih n brojeva Fibonaccijevog niza koristeći for petlju. <br/>
+Input: n [int] <br/>
+Output: 0 1 1 2 3 5 ...
 
-
-
-Fibonacci
-Faktorijel
+## [03](https://github.com/azracaus/Programiranje1/blob/main/Vjezba1/03.cpp) Faktorijel
+Napisati program koji računa faktorijel za uneseni broj n.
+ 
 Stepeni broja
 Brojevi djeljivi sa 5
 Brojevi djeljivi sa 3 i 5
