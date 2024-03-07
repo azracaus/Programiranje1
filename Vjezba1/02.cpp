@@ -3,12 +3,6 @@
 
 using namespace std;
 
-/*
-	Ispisati prvih n brojeva Fibonaccijevog niza koriste?i for petlju.
-	Input: n [int]
-	Output: 0 1 1 2 3 5 ...
-*/
-
 int main() {
 
 	int n, prvi = 0, drugi = 1, treci;
