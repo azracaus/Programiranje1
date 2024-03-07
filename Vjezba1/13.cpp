@@ -4,11 +4,6 @@
 
 using namespace std;
 
-/*  Napisati funkciju 'sumOfPrimeDigits' za izračun sume cifara datog broja 'x', ali samo onih cifara koje su prosti brojevi
-    Input: x [int]
-    Output: suma cifara broja koje postuju zadati uslov.
-*/
-
 int sumOfPrimeDigits(int x);
 int isPrime(int x);
 
