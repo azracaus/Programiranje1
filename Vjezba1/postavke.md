@@ -60,15 +60,17 @@ Npr ako korisnik unese 1520min program treba ispisati da je to 1 dan 1 sat i 20 
 Date su dvije funkcije. Funkcija h provjerava da li broj x sadrži makar jednu parnu cifru, a funkcija x računa sumu cifara broja x. <br/>
 Potrebno je uraditi implementaciju datih funkcija, a zatim napisati program gdje je potrebno unijeti varijable: <br/>
 
-| Funkcija |  Definicija |
-| --- | --- |
-| n | cjelobrojna vrijednost za koju važi ograničenje (n>0) | 
-| x | cjelobrojna vrijednost za koju važi ograničenje (x>0) |
+| Funkcija | Ulaz | Izlaz |  Definicija |
+| --- | --- | --- | ---|
+| n | int | bool | cjelobrojna vrijednost za koju važi ograničenje (n>0) | 
+| x | int | int | cjelobrojna vrijednost za koju važi ograničenje (x>0) |
 
-Ispisati sve brojeve u rasponu vrijednosti od 1 do n za koje važi: <br/>
-Suma cifara je veća ili jednaka od vrijednosti x  <br/>
-Ne sadrže niti jednu parnu cifru 
+Ispisati sve brojeve u rasponu vrijednosti [1,n] za koje važi:
 
-  
+	Suma cifara je veća ili jednaka od vrijednosti x
+	Ne sadrže niti jednu parnu cifru
+
+
+## [16](https://github.com/azracaus/Programiranje1/blob/main/Vjezba1/16.cpp) Najveći binarni broj
 vjezbe7 z4
 vjezbe7 z9
