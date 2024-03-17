@@ -72,5 +72,27 @@ Ispisati sve brojeve u rasponu vrijednosti [1,n] za koje važi:
 
 
 ## [16](https://github.com/azracaus/Programiranje1/blob/main/Vjezba1/16.cpp) Najveći binarni broj
-vjezbe7 z4
-vjezbe7 z9
+Date su sljedeće funkcije: 
+
+| Funkcija | Ulaz | Izlaz |  Definicija |
+| --- | --- | --- | ---|
+| isValid | int | bool | Provjerava da li je vrijednost x binarni broj (sačinjen samo od nula i jedinica). | 
+| binaryToDecimal | int | int | Pretvara binarni broj x u decimalni broj. |
+
+Napisati programski kod za unošenje cjelobrojnih vrijednosti gdje je n  cjelobrojna vrijednost za koju važi n>1.
+Zatim je potrebno uraditi unos cjelobrojne vrijednosti b (koja mora biti binarni broj) ukupno n  puta. Ispisati najveću binarnu vrijednost od svih unosa i njegovu decimalnu reprezentaciju. </br>
+Prilikom unošenja binarnog broja b, ponavljati unos dokle god unesena vrijednost nije validna.
+
+## [17](https://github.com/azracaus/Programiranje1/blob/main/Vjezba1/17.cpp) Bankovni račun
+Date su sljedeće funkcije: 
+
+| Funkcija | Ulaz | Izlaz |  Definicija |
+| --- | --- | --- | ---|
+| deposit | balance:float, amount float | void | Omogućuje uplaćivanje vrijednosti amount bankovni račun i uvećavanje vrijednosti balance.  | 
+| binaryToDecimal | balance:float, amount float | void | Omogućuje isplaćivanje vrijednosti amount sa bankovnog računa i umanjenje vrijednosti balance. |
+| checkBalance | balance: float | void | Ispisuje trenutno stanje na bankovnom računu. |
+
+Implementirati date funkcije, a zatim napisati program i uraditi sljedeće: </br>
+Inicijalizirati stanje na računu na vrijednost od 0 KM</br>
+Omogućiti korisnički unos varijable choice koja označava odabir funkcionalnosti (1 – Uplata, 2 – Isplata, 3 – Provjera stanja, 4 – Izlaz iz programa). </br>
+U slučaju da je unesena opcija koja nije validna, ispisati poruku i ponavljati korisnički unos. Potrebno je napomenuti da se program izvršava sve dok korisnik ne odabere opciju 4.
